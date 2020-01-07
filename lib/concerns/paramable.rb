@@ -4,8 +4,8 @@ module Paramable
   end
 end
 class Artist
-  include Paramable  
+  include Paramable
 end
 class Song
-  include Artist  
+  include Artist
 end
