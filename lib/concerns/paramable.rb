@@ -7,5 +7,5 @@ class Artist
   include Paramable
 end
 class Song
-  include Artist
+  include Paramable
 end
